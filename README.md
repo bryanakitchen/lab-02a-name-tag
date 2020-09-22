@@ -1,1 +1,3 @@
-# lab-02a-name-tag
+# Name Tag Exercise
+
+This name tag was created using HTML and CSS. 
